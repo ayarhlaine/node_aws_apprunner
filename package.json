@@ -1,0 +1,19 @@
+{
+  "name": "node_aws_apprunner",
+  "version": "1.0.0",
+  "description": "Node JS + AWS AppRunner + Terraform Example",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "JS"
+  ],
+  "author": "Ayar Hlaine",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
